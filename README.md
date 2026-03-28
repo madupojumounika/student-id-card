@@ -65,7 +65,7 @@ src/
 
 ## 📸 Screenshot
 
-![Game Screenshot]()
+![Game Screenshot](https://github.com/madupojumounika/student-id-card/blob/5869aa2d4c55343043a52fce8113f695fb5b5e05/screenshot.png)
 
 ---
 
