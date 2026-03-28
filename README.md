@@ -1,16 +1,70 @@
-# React + Vite
+# 🎓 Student Card (React Practice)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Student Card application** built using React for learning and practice purposes.
+This project focuses on understanding core React concepts by building a small UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* 📌 Displays student details (Name, ID, Course, College)
+* ✏️ Editable student name using input field
+* 🧑‍🎓 Dynamic avatar based on gender
+* 📅 Shows validity (Valid Till)
+* 📍 Displays college address
+* 🎨 Clean and simple UI design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React (Vite)
+* JavaScript (ES6)
+* CSS3
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/student-id-card.git
+
+# Go to project folder
+cd student-app
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
+```
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── App.jsx
+ ├── App.css
+ └── main.jsx
+```
+
+---
+
+## 💡 Concepts Covered
+
+* React Components
+* Props
+* useState Hook
+* Conditional Rendering
+* Event Handling
+
+---
+
+## 🎯 Purpose
+
+This project is created for practicing React basics and building small UI components.
+
+
