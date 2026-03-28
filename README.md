@@ -63,6 +63,12 @@ src/
 
 ---
 
+## 📸 Screenshot
+
+![Game Screenshot]()
+
+---
+
 ## 🎯 Purpose
 
 This project is created for practicing React basics and building small UI components.
